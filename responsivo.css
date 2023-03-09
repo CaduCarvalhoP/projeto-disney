@@ -1,0 +1,13 @@
+@media (max-width:390) {
+    
+.responsivo-home{
+    background-color: black;
+}
+.fundo-video{
+    display: none;
+}
+.cabecalho .logo{
+    width: 75px;
+}
+
+}
