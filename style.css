@@ -54,7 +54,7 @@ body{
     margin-top: 60px;
 }
 .fundo-video{
-    background-color: red;
+    background-color: black;
     position: absolute;
     z-index: -1;
     width: 100vw;
